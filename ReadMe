@@ -1,0 +1,6 @@
+Hesabfa Online Accounting Software
+
+This program is a sample code of hesabfa API methods written in PHP
+
+For using this software you need to add your hesabfa APIKEY and LOGIN TOKEN to
+API/class-api.php file (line 9 and 10).
